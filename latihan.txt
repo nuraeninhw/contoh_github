@@ -1,1 +1,2 @@
 Pertemuan 1 Pengenalan Git
+Pertemuan 2 Pengenalan CI
