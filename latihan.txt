@@ -1,3 +1,4 @@
 Pertemuan 1 Pengenalan Git
 Pertemuan 2 Pengenalan Framework Code Igniter
-Pertemuan 3 Konsep MVC
+Pertemuan 3 Konsep Model View Controller
+Pertemuan 4 Membuat Database
